@@ -1,8 +1,5 @@
 package Acme::MetaSyntactic::legomarvelsuperheroes;
-{
-  $Acme::MetaSyntactic::legomarvelsuperheroes::VERSION = '0.02';
-}
-
+$Acme::MetaSyntactic::legomarvelsuperheroes::VERSION = '0.04';
 #ABSTRACT: LEGO Marvel Super Heroes theme
 
 use strict;
@@ -23,7 +20,7 @@ Acme::MetaSyntactic::legomarvelsuperheroes - LEGO Marvel Super Heroes theme
 
 =head1 VERSION
 
-version 0.02
+version 0.04
 
 =head1 DESCRIPTION
 
@@ -42,7 +39,7 @@ Chris Williams
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2013 by Chris Williams.
+This software is copyright (c) 2014 by Chris Williams.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
@@ -51,10 +48,10 @@ the same terms as the Perl 5 programming language system itself.
 
 __DATA__
 # names
+AIM_Agent
 Abomination
 Absorbing_Man
-Acolyte
-AIM_Agent
+Agent_Coulson
 Aldrich_Killian
 Ant_Man
 Archangel
@@ -62,80 +59,91 @@ Arnim_Zola
 Aunt_May
 Beast
 Beetle
-Beta_Ray_Bill
 Black_Bolt
 Black_Cat
 Black_Panther
 Black_Widow
 Blade
 Blob
+Bruce_Banner
 Bullseye
-Captain_Britain
 Captain_America
+Captain_America_Classic
+Captain_Britain
 Carnage
 Colossus
 Curt_Connors
-Lizard
 Cyclops
-Damage_Control_Worker
+Cyclops_Astonishing
+Damage_Control
 Daredevil
 Deadpool
-Destroyer
+Destroyer_Minifig
 Doctor_Doom
 Doctor_Octopus
-Superior_Spider_Man
+Doctor_Octopus_Ultimate
 Doctor_Strange
 Doombot
+Doombot_V_Series
 Dormammu
-Drax_the_Destroyer
+Drax
 Electro
+Electro_Ultimate
 Elektra
 Emma_Frost
-Extremis_Soldier
-Falcon
 Frost_Giant
 Galactus
 Gambit
 Gamora
 Ghost_Rider
 Green_Goblin
-Norman_Osborn
+Green_Goblin_Ultimate
 Groot
 Gwen_Stacy
+HERBIE
 Havok
 Hawkeye
 Heimdall
-HERBIE
 Howard_the_Duck
-Howard_Stark
 Hulk
-Bruce_Banner
 Human_Torch
-HYDRA_Agent
+Hydra_Agent
 Iceman
 Invisible_Woman
+Invisible_Woman_FF
 Iron_Fist
-Iron_Man
+Iron_Man_Heartbreaker
+Iron_Man_Heroic_Age
+Iron_Man_Hulkbuster
+Iron_Man_Mark_1
+Iron_Man_Mark_42
+Iron_Man_Mark_6
+Iron_Man_Mark_7
 Iron_Patriot
 J_Jonah_Jameson
-Jane_Foster
 Jean_Grey
 Juggernaut
 Kingpin
-Kingpins_Henchman
+Kingpin_Henchman
 Kraven_the_Hunter
 Kurse
 Laufey
 Leader
+Liberty
+Lizard
 Loki
+MODOK
 Magneto
+Magneto_Acolyte
 Malekith_the_Accursed
 Mandarin
+Mandarin_Film
 Maria_Hill
 Mary_Jane_Watson
 Mastermind
+Mini_Sentinel
 Mister_Fantastic
-MODOK
+Mister_Fantastic_FF
 Moon_Knight
 Ms_Marvel
 Mysterio
@@ -143,59 +151,57 @@ Mystique
 Nick_Fury
 Nightmare
 Nova
-Odin
 Pepper_Potts
-Rescue
-Phil_Coulson
+Peter_Parker
+Phoenix
 Polaris
 Power_Man
 Professor_X
 Psylocke
 Punisher
 Pyro
+Red_Hulk
 Red_Skull
+Rescue
 Rhino
-Rick_Jones
-A_Bomb
 Rocket_Raccoon
 Ronan_the_Accuser
 Roxxon_Guard
+SHIELD_Agent
 Sabretooth
 Sandman
-Sandmans_Goon
-Sentinel
+Sandman_Goon
 She_Hulk
-SHIELD_Agent
 Shocker
-Sif
 Silver_Samurai
 Silver_Surfer
 Spider_Man
+Spider_Man_FF
 Spider_Woman
 Squirrel_Girl
 Stan_Lee
 Star_Lord
-Statue_of_Liberty
 Storm
 Super_Skrull
+Superior_Spider_Man
 Symbiote_Scientist
+Symbiote_Scientist_Hazmat
 Taskmaster
-Thanos
 Thing
+Thing_FF
 Thor
+Thor_Classic
 Thunderbolt_Ross
-Red_Hulk
 Toad
+Tony_Stark
+Tony_Stark_Underwear
 Union_Jack
 Venom
 Viper
 Vulture
 War_Machine
-Fandral
-Hogun
-Volstagg
 Wasp
 Whiplash
-Winter_Soldier
 Wizard
 Wolverine
+Wolverine_Cowl
